@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+    font-size: 18px;
+    background: lightgrey;
+}
+.hl{
+    text-align: center;
+    font-size: 40px;
+    color: royalblue;
+    margin: 0 auto;
+    width: 1000px;
+    border: 2px solid #4d0800;
+    background: #067925;
+}
+.main{
+    margin: 0 auto;
+    width: 1004px;
+    background: #4d0800;
+    padding: 15px 20px;
+    box-sizing: border-box;
+}
+.m1{
+    height: 1030px;
+}
+.m2{
+    height: 1850px;
+    box-sizing: border-box;
+    color: white;
+}
+.h2{
+    margin-bottom: 0;
+}
+.menu{
+    display: flex;
+    height: 50px;
+    text-align: center;
+}
+.menu a{
+    text-decoration: none;
+}
+.menu a div{
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    background: #b51300;
+    color: chartreuse;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+.shawerma p{
+    margin: 0;
+    margin-bottom: 15px;
+}
+.shawerma img{
+    margin-bottom: 15px;
+}
+.m1 img{
+    margin-top: 15px;
+}
+.main button{
+    padding: 10px 10px;
+    font-size: 17px;
+    font-family: arial;
+    background-image: url('images.jpeg');
+    border: none;
+    border-radius: 15px;
+    display: block;
+    margin-bottom: 15px;
+}
+.main a{
+    text-decoration: none;
+}
